@@ -1,0 +1,138 @@
+<resources>
+	<string name="app_name">EVE Mining Timer</string>
+
+	<!-- Inputs -->
+	<string name="using_mining_lasers">Korištenje Lasera za Rudarenje</string>
+	<string name="number_mining_lasers">Broj Rudarskih Lasera</string>
+	<string name="mining_laser_count">Brojanje Rudarskih Lasera</string>
+	<string name="cycle_time">Vrijeme Ciklusa</string>
+	<string name="ice_mining">Ledeno Rudarenje?</string>
+	<string name="drone_mining">Rudarenje Dronom</string>
+	<string name="laser_yield">Prinos Lasera</string>
+	<string name="drone_count">Broj Dronova</string>
+	<string name="drone_duration">Trajanje</string>
+	<string name="drone_yield">Prinos Dronova</string>
+	<string name="drone_speed">Brzina Drona</string>
+	<string name="target_capacity">Kapacitet</string>
+	<string name="rock_radius">Promjer Stijene</string>
+	<string name="target_distance">Udaljenost</string>
+	<string name="hold_size">Veličina Čekanja</string>
+	<string name="cargo_hold_or_ore_hold">Skladište Tereta / Skladište Rude</string>
+	<string name="currently_used">Trenutno Iskorišteno</string>
+	<string name="calculate_timer">Brojač Računanja</string>
+	<string name="save_setup">Spremi Postavke</string>
+	<string name="time_until_final_cycle">Vrijeme Do Završnog Ciklusa</string>
+	<string name="time_until_full">VRIJEME DO PUNOGA</string>
+	<string name="time_until_target_gone">VRIJEME DO NESTANKA CILJA</string>
+	<string name="final_cycle">Završni Ciklus</string>
+	<string name="tap_to_start">Dodirni Za Početak</string>
+	<string name="tap_to_refresh">Dodirni Za Osvježavanje</string>
+
+	<!-- Test / Default -->
+
+	<!-- String Forms -->
+
+	<!-- Hints -->
+	<string name="sec">sec</string>
+	<string name="m3">m3</string>
+	<string name="m_sec">m/sec</string>
+	<string name="meters">m</string>
+
+	<!-- Left Nav -->
+	<string name="navigation_drawer_open">Otvori navigacijsku ladicu</string>
+	<string name="navigation_drawer_close">Zatvori navigacijsku ladicu</string>
+	<string name="action_timer">Brojač</string>
+	<string name="action_home">Početna</string>
+	<string name="action_setup">Postavke</string>
+	<string name="action_faq">FAQ</string>
+	<string name="action_efficiency">Učinkovitost</string>
+	<string name="action_settings">Postavke</string>
+	<string name="action_donations">Donacije</string>
+	<string name="action_store">Pohrani</string>
+	<string name="action_rewards">Nagrade</string>
+	<string name="action_rate_app">Ocijeni Aplikaciju</string>
+	<string name="action_join_discord">Pridruži nam se na Discord</string>
+	<string name="action_view_twitch">Prikaži Twitch</string>
+	<string name="action_feedback">Povratna informacija</string>
+	<string name="action_about">O aplikaciji</string>
+	<string name="cat_communicate">Komuniciraj</string>
+
+	<!-- Menu -->
+	<string name="mining_target">Meta Rudarenja</string>
+	<string name="cargo_hold">Skladište tereta</string>
+
+	<!-- Text -->
+	<string name="remove_ads">Ukloni Oglase?</string>
+	<string name="reward_ad_explained">Gledanje Nagradnog Oglasa pomaže nam obojici, dodijeljuje ti 2 sata korištenja bez oglasa.</string>
+	<string name="enjoy_mining_timer">Uživate li koristiti Mining Timer Aplikaciju?</string>
+	<string name="tap_a_star">Dodirni zvijezdu kako bi ocijenio na Google Play-u</string>
+	<string name="not_now">Ne Sada</string>
+
+	<!-- UI Text -->
+	<string name="loading">Učitavanje...</string>
+	<string name="watch_ad">Gledaj Oglas</string>
+	<string name="thank_you">Hvala</string>
+	<string name="upcoming">Dodat ćemo sustav povratne informacije u sljedeći oblik kako bi korisnici mogli glasati.</string>
+	<string name="update">Ažuriranje</string>
+	<string name="add_target">Dodaj Cilj</string>
+	<string name="update_target">Ažuriraj Cilj</string>
+	<string name="cargo_hold_management">Upravljanje Skladištenjem Tereta</string>
+	<string name="mining_cycle_complete">Izvršen Ciklus Rudarenja</string>
+	<string name="start_mining_again">Ponovo Započni Rudarenje?</string>
+	<string name="dialog_ok">OK</string>
+	<string name="dialog_cancel">Otkaži</string>
+	<string name="dialog_close">Zatvori</string>
+	<string name="share">Dijeli</string>
+	<string name="share_with">Dijeli sa</string>
+
+	<!-- Notification Text -->
+	<string name="stop">Zaustavi</string>
+	<string name="empty">Isprazni</string>
+
+	<!-- Drones -->
+	<string name="update_drones">Ažuriraj Podatke Drona</string>
+
+	<!-- Ore Text -->
+	<string name="ore_type">Vrsta Rude</string>
+	<string name="ore_size">Veličina: %d</string>
+	<string name="save_ore_type">Spremi Vrstu Rude</string>
+
+	<!-- Settings -->
+	<string name="clear_all">Očisti Sve Postavke Aplikacije</string>
+	<string name="reset">Reset</string>
+
+	<!-- Snackbar Message -->
+	<string name="something_is_off_check_your_setup">Nešto je isključeno, provjeri svoje postavke</string>
+	<string name="empty_cargo_hold">Isprazni Skladište Tereta</string>
+
+	<!-- Copyright Notice -->
+
+	<!-- Misc -->
+	<string name="unknown">Nepoznato</string>
+	<string name="donation">Donacija</string>
+
+	<!-- Long Text -->
+	<string name="donation_text">Ako ste voljni donirati za razvoj ove aplikacije, ovdje su neke opcije:</string>
+
+	<!-- String related to About -->
+	<string name="title_activity_about">U vezi sa</string>
+	<string name="about_version">Verzija: %s</string>
+	<string name="about_email_intent">Povratna Informacija: EVE Mining Timer</string>
+	<string name="about_not_found_email">Nije pronađena email aplikacija</string>
+	<string name="about_card1_title">Pomoćnik za Mining Market </string>
+	<string name="about_card_top_message">Bok, drago nam je što te vidimo!</string>
+	<string name="about_card2_title">Ako Vam se svidjela aplikacija, slobodno nas kontaktirajte.</string>
+	<string name="about_google_play">Ocijeni na Google play-u</string>
+	<string name="about_email">Povratna Informacija E-mail-om</string>
+	<string name="about_website">Prikaži našu web stranicu</string>
+	<string name="privacy_policy">Politika Privatnosti</string>
+	<string name="about_source_licenses">Otvori izvorne licence</string>
+
+	<!-- ContentDescription -->
+	<string name="mining_target_desc">Cilj za Rudarske Lasere ili Dronove</string>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello prazni odlomak</string>
+	<string name="fun_products">Zabavni Proizvodi</string>
+	<string name="fun_subscriptions">Zabavne Pretplate</string>
+</resources>
