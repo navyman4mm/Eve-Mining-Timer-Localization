@@ -1,0 +1,20 @@
+<resources>
+	<string name="app_designed_by_x">Dizajnirao %s</string>
+
+	<!-- FAB Message -->
+	<string name="share_with">Dijeli sa</string>
+
+	<!-- String related to About -->
+	<string name="title_activity_about">U vezi sa</string>
+	<string name="about_version">Verzija: %s</string>
+	<string name="about_email_intent">Povratna Informacija: EVE Mining Timer</string>
+	<string name="about_not_found_email">Nije pronađena email aplikacija</string>
+	<string name="about_card1_title">Pomoćnik za Mining Market </string>
+	<string name="about_card_top_message">Bok, drago nam je što te vidimo!</string>
+	<string name="about_card2_title">Ako Vam se svidjela aplikacija, slobodno nas kontaktirajte.</string>
+	<string name="about_google_play">Ocijeni na Google play-u</string>
+	<string name="about_email">Povratna Informacija E-mail-om</string>
+	<string name="about_website">Prikaži našu web stranicu</string>
+	<string name="privacy_policy">Politika Privatnosti</string>
+	<string name="about_source_licenses">Otvori izvorne licence</string>
+</resources>
