@@ -9,5 +9,5 @@ Currently we have Translations for:
 - Croatian
 
 
-Not familar with the app in question check it out on the Google Play Store:
-https://play.google.com/store/apps/details?id=com.digital_tectonics.eveminingtimer
+Not familar with the app in question check it out on the Google Play Store: 	
+[EVE Mining Timer - Don't Over Cap Your Hold Again!](https://play.google.com/store/apps/details?id=com.digital_tectonics.eveminingtimer)
