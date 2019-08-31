@@ -1,0 +1,20 @@
+<resources>
+	<string name="app_designed_by_x">Diseñado por %s</string>
+
+	<!-- FAB Message -->
+	<string name="share_with">Compartir con</string>
+
+	<!-- String related to About -->
+	<string name="title_activity_about">Acerca de</string>
+	<string name="about_version">Versión: %s</string>
+	<string name="about_email_intent">Comentarios: Mercado minero</string>
+	<string name="about_not_found_email">Aplicación de correo electrónico no encontrada</string>
+	<string name="about_card1_title">Mercado minero</string>
+	<string name="about_card_top_message">Hey, ¡feliz de verte!</string>
+	<string name="about_card2_title">Si te gustó la aplicación, no dudes en contactarnos.</string>
+	<string name="about_google_play">Calfícanos en Google play</string>
+	<string name="about_email">Compentarios por correo</string>
+	<string name="about_website">Visita nuestro sitio web</string>
+	<string name="privacy_policy">Política de privacidad</string>
+	<string name="about_source_licenses">Licencias Open source</string>
+</resources>
