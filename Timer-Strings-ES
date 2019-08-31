@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">EVE Mining Timer</string>
+
+    <!-- Inputs -->
+    <string name="number_mining_lasers">Número de láseres de minería</string>
+    <string name="mining_laser_count">Conteo láser de minería</string>
+    <string name="cycle_time">Ciclo de tiempo</string>
+    <string name="ice_mining">¿Minería de hielo?</string>
+    <string name="drone_mining">Drone de minería</string>
+    <string name="laser_yield">Rendimiento del láser</string>
+	<string name="drone_count">Conteo del drone</string>
+	<string name="drone_yield">Rendimiento del drone</string>
+    <string name="drone_speed">Velocidad del Drone</string>
+    <string name="target_capacity">Capacidad</string>
+    <string name="rock_radius">Radio de la roca</string>
+    <string name="target_distance">Distancia</string>
+    <string name="hold_size">Tamaño de la bodega</string>
+    <string name="cargo_hold_or_ore_hold">Bodega de carga / retención</string>
+    <string name="currently_used">Utilizado</string>
+
+    <string name="calculate_timer">Calcular tiempo</string>
+    <string name="save_setup">Guardar configuración</string>
+
+    <string name="time_until_final_cycle">Tiempo hasta el ciclo final</string>
+    <string name="time_until_full">TIEMPO PARA LLENADO</string>
+    <string name="time_until_target_gone">TIEMPO PARA QUE EL OBJETIVO SE VAYA</string>
+    <string name="final_cycle">Ciclo final</string>
+
+    <string name="tap_to_start">Tocar para inciar</string>
+    <string name="tap_to_refresh">Tocar para actualizar</string>
+
+    <!-- Hints -->
+    <string name="sec">seg</string>
+    <string name="m3">m3</string>
+    <string name="m_sec">m/seg</string>
+    <string name="meters">m</string>
+
+    <!-- Left Nav -->
+    <string name="navigation_drawer_open">Abrir navegación</string>
+    <string name="navigation_drawer_close">Cerrar navegación</string>
+    <string name="action_timer">Tiempo</string>
+    <string name="action_home">Inicio</string>
+    <string name="action_setup">Configuración</string>
+    <string name="action_faq">Preguntas frecuentes</string>
+    <string name="action_efficiency">Eficiencia</string>
+    <string name="action_settings">Configuración</string>
+	<string name="action_donations">Donaciones</string>
+	<string name="action_store">Tienda</string>
+    <string name="action_rewards">Premios</string>
+    <string name="action_rate_app">Calificar aplicación</string>
+    <string name="action_join_discord">Úneta a Discord</string>
+    <string name="action_view_twitch">Ver en Twitch</string>
+    <string name="action_feedback">Retroalimentación</string>
+	<string name="action_about">Acerca de</string>
+    <string name="cat_communicate">Comunícate</string>
+
+	<!-- Menu -->
+	<string name="mining_target">Objetivo minero</string>
+	<string name="cargo_hold">Bodega de carga</string>
+
+    <!-- Text -->
+    <string name="remove_ads">¿Remover anuncios?</string>
+    <string name="reward_ad_explained">Viendo un anuncio de recompensa nos ayudamos ambos, se le otorgarán 2 horas sin anuncios.</string>
+    <string name="enjoy_mining_timer">¿Disfrutas la aplicación?</string>
+    <string name="tap_a_star">Toca una estrella para calificar en Google Play</string>
+    <string name="not_now">Ahora no</string>
+
+    <!-- UI Text -->
+    <string name="loading">Cargando...</string>
+    <string name="watch_ad">Ver anuncio</string>
+    <string name="thank_you">Gracias</string>
+    <string name="upcoming">Agregaremos un sistema de comentarios para que los usuarios voten sobre la próxima función.</string>
+    <string name="update">Actualizar</string>
+    <string name="add_target">Añadir objetivo</string>
+    <string name="update_target">Actualizar objetivo</string>
+    <string name="cargo_hold_management">Administrar bodega de carga</string>
+	<string name="mining_cycle_complete">Ciclo de minería completado</string>
+	<string name="start_mining_again">¿Comenzar a minar nuevamente?</string>
+
+	<string name="dialog_ok">De acuerdo</string>
+	<string name="dialog_cancel">Cancelar</string>
+	<string name="dialog_close">Cerrar</string>
+	<string name="share">Compartir</string>
+	<string name="share_with">Compartir con</string>
+
+	<!-- Notification Text -->
+	<string name="stop">Detener</string>
+	<string name="empty">Vaciar</string>
+
+    <!-- Drones -->
+    <string name="update_drones">Actualizar información de Drone</string>
+
+    <!-- Ore Text -->
+    <string name="ore_type">Tipo de mineral</string>
+    <string name="ore_size">Dimensión: %d</string>
+    <string name="save_ore_type">Guardar tipo de mineral</string>
+
+    <!-- Settings -->
+    <string name="clear_all">Borrar toda la configuración de la aplicación</string>
+    <string name="reset">Reiniciar</string>
+
+    <!-- Snackbar Message -->
+    <string name="something_is_off_check_your_setup">Algo se encuentra apagado, verifica tu configuración</string>
+
+    <!-- Copyright Notice -->
+
+	<!-- Misc -->
+    <string name="unknown">Desconocido</string>
+
+	<!-- Long Text -->
+	<string name="donation_text">Si quieres donar al desarrollo de esta aplicación, aquí hay algunas opciones:</string>
+
+	<!-- String related to About -->
+	<string name="title_activity_about">Acerca de</string>
+	<string name="about_version">Versión: %s</string>
+	<string name="about_email_intent">Comentarios: Mercado minero</string>
+	<string name="about_not_found_email">Aplicación de correo electrónico no encontrada</string>
+	<string name="about_card1_title">Mercado minero</string>
+	<string name="about_card_top_message">Hey, ¡feliz de verte!</string>
+	<string name="about_card2_title">Si te gustó la aplicación, no dudes en contactarnos.</string>
+	<string name="about_google_play">Calfícanos en Google play</string>
+	<string name="about_email">Compentarios por correo</string>
+	<string name="about_website">Visita nuestro sitio web</string>
+	<string name="privacy_policy">Política de privacidad</string>
+	<string name="about_source_licenses">Licencias Open source</string>
+
+    <!-- ContentDescription -->
+    <string name="mining_target_desc">Objetivo para mineros láser o drones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragment en blanco</string>
+	<string name="fun_products">Productos divertidios</string>
+	<string name="fun_subscriptions">Suscripciones divertidas</string>
+	<string name="donation">Donacion</string>
+	<string name="empty_cargo_hold">Vaciar bodega de carga</string>
+	<string name="drone_duration">Duración</string>
+	<string name="using_mining_lasers">Using Mining Lasers</string>
+</resources>
