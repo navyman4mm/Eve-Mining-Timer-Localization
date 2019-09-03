@@ -1,6 +1,11 @@
 <resources>
-  <string name="app_name">EVE Mining Timer</string>
-  <!-- Inputs -->
+    <string name="app_name">EVE Mining Timer</string>
+    <!-- Company Info -->
+	<string name="company_name" translatable="false">Digital Tectonics</string>
+	<string name="company_website" translatable="false">http://digital-tectonics.com/</string>
+	<string name="company_email" translatable="false">digitaltectonicsinfo@gmail.com</string>
+
+    <!-- Inputs -->
 	<string name="using_mining_lasers">Using Mining Lasers</string>
     <string name="number_mining_lasers">Number of Mining Lasers</string>
     <string name="mining_laser_count">Mining Laser Count</string>
@@ -33,6 +38,7 @@
     <!-- Test / Default -->
     <string name="zero_time" translatable="false">0:00</string>
     <string name="zero_percent" translatable="false">0%</string>
+	<string name="ship_name" translatable="false">Ship Name</string>
 
     <!-- String Forms -->
     <string name="x_percent" translatable="false">%s%%</string>
@@ -47,8 +53,8 @@
     <!-- Left Nav -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="action_timer">Timer</string>
     <string name="action_home">Home</string>
+	<string name="action_timer">Timer</string>
     <string name="action_setup">Setup</string>
     <string name="action_faq">FAQ</string>
     <string name="action_efficiency">Efficiency</string>
@@ -66,9 +72,9 @@
 	<!-- Menu -->
 	<string name="mining_target">Mining Target</string>
 	<string name="cargo_hold">Cargo Hold</string>
+	<string name="remove_ads">Remove Ads?</string>
 
     <!-- Text -->
-    <string name="remove_ads">Remove Ads?</string>
     <string name="reward_ad_explained">Watching a Reward Ad helps us both out, granting you 2 hours ad free usage.</string>
     <string name="enjoy_mining_timer">Enjoying Mining Timer App?</string>
     <string name="tap_a_star">Tap a star to rate on Google Play</string>
@@ -85,7 +91,9 @@
     <string name="cargo_hold_management">Cargo Hold Management</string>
 	<string name="mining_cycle_complete">Mining Cycle Complete</string>
 	<string name="start_mining_again">Start Mining Again?</string>
+	<string name="mining_target_capacity_check_warning" translatable="false">Mining Target Capacity Check is OFF</string>
 
+	<!-- Dialog -->
 	<string name="dialog_ok">OK</string>
 	<string name="dialog_cancel">Cancel</string>
 	<string name="dialog_close">Close</string>
@@ -111,6 +119,7 @@
     <!-- Snackbar Message -->
     <string name="something_is_off_check_your_setup">Something is off, check your setup</string>
 	<string name="empty_cargo_hold">Empty Cargo Hold</string>
+	<string name="mining_target_empty">Mining Target is Empty</string>
 
     <!-- Copyright Notice -->
     <string name="ccp_copyright_notice" translatable="false">EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf. CCP hf. has granted permission to Digital Tectonics to use EVE Online and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not in any way affiliated with, Digital Tectonics. CCP is in no way responsible for the content on or functioning of this mobile app, nor can it be liable for any damage arising from the use of this mobile app.</string>
@@ -126,6 +135,7 @@
 	<string name="title_activity_about">About</string>
 	<string name="about_version">Version: %s</string>
 	<string name="about_email_intent">Feedback: EVE Mining Timer</string>
+	<!--<string name="about_email_intent">Feedback: Mining Market Helper</string>-->
 	<string name="about_not_found_email">Not found email app</string>
 	<string name="about_card1_title">Mining Market Helper</string>
 	<string name="about_card_top_message">Hey, glad to see you!</string>
@@ -136,6 +146,21 @@
 	<string name="privacy_policy">Privacy Policy</string>
 	<string name="about_source_licenses">Open source licenses</string>
 
+	<!-- Preferences -->
+	<string name="alert_on_cycle">Alert on Cycle</string>
+	<string name="alert_on_cycle_desc">Check if after each Cycle to alarm.</string>
+	<string name="mining_target_capacity_check">Check Mining Target Capacity</string>
+	<string name="mining_target_capacity_check_desc">Check Capacity of Mining Target while mining.</string>
+	<string name="cargo_reset_on_stop">Cargo Hold Reset</string>
+	<string name="cargo_reset_on_stop_desc">Check if on timer reset empty cargo hold.</string>
+	<string name="instruction_text">Instructional Text</string>
+	<string name="instruction_text_desc">Check if you want instructional text for countdown displayed.</string>
+
     <!-- ContentDescription -->
     <string name="mining_target_desc">Target for Mining Lasers or Drones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="fun_products">Fun Products</string>
+	<string name="fun_subscriptions">Fun Subscriptions</string>
 </resources>
