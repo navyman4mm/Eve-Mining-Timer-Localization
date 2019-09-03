@@ -104,6 +104,7 @@
 	<!-- Snackbar Message -->
 	<string name="something_is_off_check_your_setup">Nešto je isključeno, provjeri svoje postavke</string>
 	<string name="empty_cargo_hold">Isprazni Skladište Tereta</string>
+	<string name="mining_target_empty">Meta Rudarenja Isprazni</string>
 
 	<!-- Copyright Notice -->
 
@@ -127,6 +128,16 @@
 	<string name="about_website">Prikaži našu web stranicu</string>
 	<string name="privacy_policy">Politika Privatnosti</string>
 	<string name="about_source_licenses">Otvori izvorne licence</string>
+
+	<!-- Preferences (Needs to be Localized) -->
+	<string name="alert_on_cycle">Alert on Cycle</string>
+	<string name="alert_on_cycle_desc">Check if after each Cycle to alarm.</string>
+	<string name="mining_target_capacity_check">Check Mining Target Capacity</string>
+	<string name="mining_target_capacity_check_desc">Check Capacity of Mining Target while mining.</string>
+	<string name="cargo_reset_on_stop">Cargo Hold Reset</string>
+	<string name="cargo_reset_on_stop_desc">Check if on timer reset empty cargo hold.</string>
+	<string name="instruction_text">Instructional Text</string>
+	<string name="instruction_text_desc">Check if you want instructional text for countdown displayed.</string>
 
 	<!-- ContentDescription -->
 	<string name="mining_target_desc">Cilj za Rudarske Lasere ili Dronove</string>
