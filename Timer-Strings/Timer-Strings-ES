@@ -101,6 +101,7 @@
 
     <!-- Snackbar Message -->
     <string name="something_is_off_check_your_setup">Algo se encuentra apagado, verifica tu configuración</string>
+	<string name="mining_target_empty">Objetivo minero Vaciar</string>
 
     <!-- Copyright Notice -->
 
@@ -124,7 +125,17 @@
 	<string name="privacy_policy">Política de privacidad</string>
 	<string name="about_source_licenses">Licencias Open source</string>
 
-    <!-- ContentDescription -->
+	<!-- Preferences (Needs to be Localized) -->
+	<string name="alert_on_cycle">Alert on Cycle</string>
+	<string name="alert_on_cycle_desc">Check if after each Cycle to alarm.</string>
+	<string name="mining_target_capacity_check">Check Mining Target Capacity</string>
+	<string name="mining_target_capacity_check_desc">Check Capacity of Mining Target while mining.</string>
+	<string name="cargo_reset_on_stop">Cargo Hold Reset</string>
+	<string name="cargo_reset_on_stop_desc">Check if on timer reset empty cargo hold.</string>
+	<string name="instruction_text">Instructional Text</string>
+	<string name="instruction_text_desc">Check if you want instructional text for countdown displayed.</string>
+
+	<!-- ContentDescription -->
     <string name="mining_target_desc">Objetivo para mineros láser o drones</string>
 
     <!-- TODO: Remove or change this placeholder text -->
